@@ -5,7 +5,7 @@ def main():
     exist = "there is no spoon"
     print(exist)
 
-    msg = "failed"
+    msg = "success"
     print(msg)
 
 if __name__ == '__main__':
